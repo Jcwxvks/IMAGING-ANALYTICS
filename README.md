@@ -15,7 +15,7 @@ Multi-instance learning is gradually being reused for feature learning, classifi
   - Defining the model:
       - ResNet18 as a feature extractor, 128-dimensional last fully-connected layer output
       - Mean pooling
-      - 3 layer MLP (dropout = 0.5, 1-dimensional final output)
+      - 3 layer MLP, dropout = 0.5, 1-dimensional final output
   - Create and train the model, evaluating and visualization
 
 - **`MIL IMPLEMENTATION.pdf`**  
