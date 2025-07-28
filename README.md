@@ -9,7 +9,7 @@ Multi-instance learning is gradually being reused for feature learning, classifi
 ## Repository Contents
 
 - **`MIL IMPLEMENTATION.ipynb`**  
-  An Jupyter notebook that performs the complete downstream analysis:
+  A Jupyter notebook that performs the complete downstream analysis:
   - Load MNIST and filter out digit 0 and 7 (64*64 size), generate a uniform fraction distribution of 0s and assign it to the training/test set, create the training and test sets using sampling without replacement
   - Visualize the distribution of fraction and one of the constructed bag
   - Defining the model:
