@@ -42,7 +42,7 @@ The .ipynb will execute and generate visualizations, predictive states and resul
 ## References
 
 - **Dataset: [MNIST](https://www.mnist.org/)**
-- **Tools: [PyTorch](https://pytorch.org/), etc (see `MIL IMPLEMENTATION.ipynb` requirements for details).
+- **Tools: [PyTorch](https://pytorch.org/),** etc (see `MIL IMPLEMENTATION.ipynb` requirements for details).
 
 ## License
 
